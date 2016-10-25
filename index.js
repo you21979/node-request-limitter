@@ -1,1 +1,1 @@
-var requestLimitter = module.exports = require('./lib/limitter');
+module.exports = require('./lib/limitter');
